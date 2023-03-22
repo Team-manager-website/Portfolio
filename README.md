@@ -14,6 +14,13 @@ Welcome to my portfolio of semester 3. In my portfolio you can find all my work 
 ## Learning Outcomes
 Here are the learning outcomes with the proof with which I have achieved the learning outcome.
 Learning Outcome | Explanation | Rating | Proof 
---- | --- | --- | --- | --- 
-Backtick | ` | v | d | d 
-Pipe | \| b | d | d | d 
+--- | --- | --- | --- 
+Web application | I try to make my application as user friendly as possible, I have watched other websites how they managed their ux. <br><br>I have made my application full stack by making a front-end in Vue. I made a back-end service in java where I work with api’s. I also work with the service from Ath0 for my authentication.
+ | d | d 
+Software quality | \| b | d | d 
+Agile method | \| b | d | d 
+CI/CD | \| b | d | d
+Cultural differences and ethics | \| b | d | d 
+Requirements and design | \| b | d | d 
+Business processes | \| b | d | d 
+Professional | \| b | d | d  
