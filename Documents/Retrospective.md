@@ -1,9 +1,9 @@
 # Retrospective
 
-##Sprint 1&2
+## Sprint 1&2
 In the first two sprint I did not make I retrospective but I released that something can be do better. So, for myself I start a retrospective in sprint three.
 
-##Sprint 3
+## Sprint 3
 Down here I have made my first retrospective. I found a retrospective
 What went well | What caused problems | What can be better  
 --- | --- | ---
