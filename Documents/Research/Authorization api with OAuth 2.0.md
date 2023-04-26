@@ -37,8 +37,8 @@ In the following steps I will show how the process of OAuth works.
 5. Now the client requests a protected resource from the provider with the access token.
 6. If the access token is valid, it serves the request.
 
- 
+ ![alt text](![image](https://user-images.githubusercontent.com/103424907/234564806-a5183404-7728-4d52-bf40-afd6f84c3c39.png))
  
 ## Sources
-Auth0: https://auth0.com/intro-to-iam/what-is-oauth-2 
+Auth0: https://auth0.com/intro-to-iam/what-is-oauth-2 <br>
 Stfalcon: https://stfalcon.com/en/blog/post/oauth-2.0 
