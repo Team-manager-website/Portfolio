@@ -2,7 +2,7 @@
 
 ## Table Of Content
 [Intro](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#intro)<br>
-[What is OAuth 2.0]([https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#what-is-oauth-20])<br>
+[What is OAuth 2.0](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#what-is-oauth-20)<br>
 [Benefits and the drawbacks](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#benefits-and-the-drawbacks)<br>
 [How does OAuth 2.0 work](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#how-does-oauth-20-work)<br>
 [Sources](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#sources)<br>
