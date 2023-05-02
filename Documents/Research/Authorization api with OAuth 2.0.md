@@ -1,4 +1,4 @@
-#Authorization api with OAuth 2.0
+# Authorization api with OAuth 2.0
 
 ## Table Of Content
 [Intro](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Authorization%20api%20with%20OAuth%202.0.md#intro)<br>
