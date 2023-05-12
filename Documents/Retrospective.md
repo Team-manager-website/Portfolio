@@ -27,7 +27,7 @@ Down here I have made my retrospective for sprint 5.
 What went well | What caused problems | What can be better  
 --- | --- | ---
 Documentation | Sticking to the same issue | Moitvation
- | Coding | 
+ | | Coding | 
 
 For this sprint, the documentation went well. I had good progression with it. For what caused problems I have again sticking on the same issue because I had a lot of issues this sprint and after some time, I just wanted to finish it, but I couldn’t fix it. I have also coded there because of the issues that I couldn’t fix. Secondly, I also I have motivation, it has improved but to I the problem is to start the day but when I started, I worked longer then normally.
 
