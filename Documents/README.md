@@ -1,5 +1,5 @@
 # Teammanager Documentation
-Welcome to my documentation of my teamanager project. Below you can see al my documentation documents.
+Welcome to my documentation of my teammanager project. Below you can see al my documentation documents.
 
 ## Documents
 [Backend-language](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Backend-language.md)<br>
