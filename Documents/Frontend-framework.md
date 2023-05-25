@@ -1,0 +1,2 @@
+# Frontend framework
+I am going to choose the Vue framework. One of the reasons it that is one of the most used JavaScript frameworks. The other reason is that it is one of the easiest frameworks to start with if you have a little bit of JavaScript experience. And after research I have found out that it does not really witch framework you pick just look at what feels the best for you and that is Vue for me.
