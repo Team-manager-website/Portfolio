@@ -31,4 +31,12 @@ Documentation | Sticking to the same issue | Moitvation
 
 For this sprint, the documentation went well. I had good progression with it. For what caused problems I have again sticking on the same issue because I had a lot of issues this sprint and after some time, I just wanted to finish it, but I couldn’t fix it. I have also coded there because of the issues that I couldn’t fix. Secondly, I also I have motivation, it has improved but to I the problem is to start the day but when I started, I worked longer then normally.
 
+## Sprint 6
+Down here I have made my retrospective for sprint 6.
+What went well | What caused problems | What can be better  
+--- | --- | ---
+Documentation | Sticking to the same issue | 
+
+I do not have a lot of things in my retrospective this sprint. This sprint I did not do much on coding and what I did went well, but I do not feel like it is something that went very well. My motivation was better this sprint, but I do not feel that it went that good to go to the wat went well. I had some progression in my documentation so that went well. The thing that caused a problem was that I sticked to long at my api security problem because I wanted it to work.
+
 Source: https://medium.com/hike-one-digital-product-design/effective-yet-fun-retrospectives-336f6d40a65b
