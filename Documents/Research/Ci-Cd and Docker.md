@@ -24,7 +24,7 @@ Docker is a platform that developers can use to build, deploy, run, update and m
 ## Demo
 In my back-end project I have made 2 ci/cd files and I am going to show one of them here so I can explain what is does. Down below you can see the docker-image.yml file from my back-end project. 
 
- ![image](https://github.com/Team-manager-website/Portfolio/assets/103424907/d80af5d7-a770-42e5-938c-9ea15ea8de78)
+![image](https://github.com/Team-manager-website/Portfolio/assets/103424907/f6e4e6c2-597e-4e14-8f9b-e0077486f51f)
 
 At the top of the file, the action is named "Docker Image CI." The workflow is triggered when there is a push event or a pull request to the "master" branch.
 
@@ -34,13 +34,14 @@ The job defined in this workflow is named "build" and it runs on an Ubuntu envir
 
 2. The "docker/login-action@v2" step logs in to Docker Hub using the provided Docker Hub username and password stored in secrets.
 
-3. The "docker build" step creates a Docker image using the Dockerfile in the current directory. It tags the image as "cedje/teammanager:team."
+3. The "actions/setup-java@v3" step sets up JDK 17 with the 'temurin' distribution and caches Maven.
 
-4. The "docker push" step pushes the built Docker image to the Docker Hub repository "cedje/teammanager:team."
+4. The "mvn package --file pom.xml" step builds the Maven project by running the "package" goal using the "pom.xml" file.
 
-5. The "actions/setup-java@v3" step sets up JDK 11 with the 'temurin' distribution and caches Maven.
+5. The "docker build" step creates a Docker image using the Dockerfile in the current directory. It tags the image as "cedje/teammanager:team."
 
-6. The "mvn package --file pom.xml" step builds the Maven project by running the "package" goal using the "pom.xml" file.
+6. The "docker push" step pushes the built Docker image to the Docker Hub repository "cedje/teammanager:team."
+
 
 This workflow automates the process of building a Docker image, pushing it to Docker Hub, and building a Maven project. It ensures that the latest code changes on the "master" branch are built, packaged, and ready for deployment.
 
