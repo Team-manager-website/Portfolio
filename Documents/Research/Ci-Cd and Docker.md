@@ -4,7 +4,7 @@
 In this document I am going to talk about ci/cd. What is ci/cd and what can you do with it. In addition, we will also discuss what docker is and what you can do with it with ci/cd. I am going to talk about the pros and cons and in the and I am giving a little example how I integrated ci/cd into my own project.
 
 ## What is ci/cd
-Ci is standing for continuous integration and helps the developers to maintain their focus on important things namely writing code. By using ci the do not have to focus on how to integrate code into the existed project. 
+Ci is standing for continuous integration and helps the developers to maintain their focus on important things namely writing code. By using ci you can automatically confirm that your code is valid and error free. 
 
 Cd is standing for continuous delivery, and it begins when ci stops. Cd simplifies the process to make new code changes to new environments. For example, it can be a production server like Docker. To process the code to a new environment it can automatically build, test and deploy code.
 
