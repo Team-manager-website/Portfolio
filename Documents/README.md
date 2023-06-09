@@ -8,5 +8,5 @@ Welcome to my documentation of my teammanager project. Below you can see al my d
 [User story elaboration](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/User%20story%20elaboration.md)<br>
 [C4 Model](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/C4-model.md)<br>
 
-## Ather douments
+## Other documents
 [Reseach documents](https://github.com/Team-manager-website/Portfolio/tree/main/Documents/Research)<br>
