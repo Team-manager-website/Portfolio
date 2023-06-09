@@ -6,5 +6,5 @@ Welcome to my researchs documents of my teammanager project. Below you can see a
 [Ci/Cd and Docker](https://github.com/Team-manager-website/Portfolio/blob/main/Documents/Research/Ci-Cd%20and%20Docker.md)<br>
 
 
-## Ather douments
+## Other documents
 [Documents](https://github.com/Team-manager-website/Portfolio/tree/main/Documents)<br>
