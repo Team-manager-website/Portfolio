@@ -39,4 +39,12 @@ Documentation | Sticking to the same issue |
 
 I do not have a lot of things in my retrospective this sprint. This sprint I did not do much on coding and what I did went well, but I do not feel like it is something that went very well. My motivation was better this sprint, but I do not feel that it went that good to go to the wat went well. I had some progression in my documentation so that went well. The thing that caused a problem was that I sticked to long at my api security problem because I wanted it to work.
 
+## Sprint 7
+Down here I have made my retrospective for sprint 7.
+What went well | What caused problems | What can be better  
+--- | --- | ---
+Productivity | Time manegment | 
+
+This sprint went well. I have finished everything I wanted to finish. But I think if I managed my time better, I could have made more progress. However, I have finished every target because my productivity was good. I didn't have many problems, but if I did, I put them aside and started with something else.
+
 Source: https://medium.com/hike-one-digital-product-design/effective-yet-fun-retrospectives-336f6d40a65b
